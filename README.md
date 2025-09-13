@@ -1,6 +1,11 @@
 # Anxiatude: iOS App for Managing Anxiety
 
-#### [Video Demo](https://youtu.be/5H-BRae7C04)
+## App Design Screens
+#### [Video Demo on Youtube](https://youtu.be/5H-BRae7C04)
+
+| **App Icon**       | **Launch Screen**  | **List Categories** | **Loading View**  | **Detail Category** | **TnC Screen**   |
+|--------------------|--------------------|---------------------|-------------------|---------------------|------------------|
+| <img width="201" height="437" alt="1  icon" src="https://github.com/user-attachments/assets/aeb2be2e-675e-45cb-af13-48c2cd734977" /> |<img width="201" height="437" alt="2  launch" src="https://github.com/user-attachments/assets/e8249eef-dbfd-4d48-a032-272c698700bb" />  |<img width="201" height="437" alt="3  list" src="https://github.com/user-attachments/assets/2a0694f4-4337-4176-b96f-44364bf12f02" /> |<img width="201" height="437" alt="4  loading" src="https://github.com/user-attachments/assets/2a536e3b-be55-4d17-8ec3-21cd6857cfb2" />| <img width="201" height="437" alt="5  detail" src="https://github.com/user-attachments/assets/45785dc8-2d4d-4fed-a0cc-a6278de9de3f" /> | <img width="201" height="437" alt="6  tnc" src="https://github.com/user-attachments/assets/dde0b2a0-841b-4127-835b-45883661b82d" /> |
 
 ## Description
 
